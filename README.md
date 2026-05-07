@@ -1,12 +1,3 @@
-# Hi there, I'm Muhsin K Muhamed 👋
-### Technical Consultant | Solutions Architect | Project Manager
-
-<p align="left">
-  <a href="https://linkedin.com/in/muhsinkm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
-</p>
-
----
 <div align="center">
 
 <a href="https://github.com/muhsinkm">
