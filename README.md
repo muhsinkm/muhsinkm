@@ -14,18 +14,14 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=8A7FFF&center=true&vCenter=true&multiline=true&width=720&height=90&lines=%F0%9F%91%8B+Hey%2C+I'm+Muhsin+%E2%80%94+Solutions+Architect;%F0%9F%9B%A1%EF%B8%8F+WordPress+Security+%E2%80%A2+SiteSuraksha;%F0%9F%A4%96+Building+the+OpenClaw+AI+ecosystem." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=8A7FFF&center=true&vCenter=true&multiline=true&width=720&height=90&lines=%F0%9F%91%8B+Hey%2C+I'm+Muhsin+%E2%80%94+Technical+Consultant,+Solutions+Architect,+Project+Manager;%F0%9F%9B%A1%EF%B8%8F+WordPress+Security+%E2%80%A2+SiteSuraksha;%F0%9F%A4%96+Building+the+OpenClaw+AI+ecosystem." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://github.com/muhsinkm?tab=followers">
-  <img src="https://img.shields.io/github/followers/muhsinkm?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=8A7FFF" alt="followers" />
-</a>
 <a href="https://linkedin.com/in/muhsinkm">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=muhsinkm&style=for-the-badge&color=667eea&label=PROFILE+VIEWS&labelColor=0d1117" alt="profile views" />
 
 </div>
 ---
