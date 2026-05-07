@@ -24,15 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhsinkm&show_icons=true&theme=tokyonight&count_private=true" alt="Muhsin's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinkm&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
----
-
 ### 💻 Tech Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
