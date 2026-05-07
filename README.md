@@ -34,13 +34,6 @@
 
 ---
 
-### 📈 Activity Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhsinkm&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Connect with Me
 - 🏢 **Current Role:** Project Manager (Migration & Optimization) at Seahawk.
 - 🌐 **Website:** [sitesuraksha.com](https://sitesuraksha.com)
