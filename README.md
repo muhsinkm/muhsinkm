@@ -10,7 +10,7 @@
 <div align="center">
 
 <a href="https://github.com/muhsinkm">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Muhsin&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%F0%9F%9B%A1%EF%B8%8F%20WordPress%20Security%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20SRE&descSize=18&descAlignY=60&descAlign=50" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Muhsin+K+Muhamed&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%F0%9F%9B%A1%EF%B8%8F%20WordPress%20Security%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20SRE&descSize=18&descAlignY=60&descAlign=50" alt="header banner" />
 </a>
 
 <a href="https://git.io/typing-svg">
